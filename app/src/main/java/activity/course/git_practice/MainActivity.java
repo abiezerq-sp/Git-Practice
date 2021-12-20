@@ -22,9 +22,6 @@ public class MainActivity extends AppCompatActivity {
 
     int b = 2;
 
-
-    int a = 1;
-
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;
 
