@@ -19,9 +19,10 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
-
+  
     String b0 = "2.0";
     String b1= "2.1";
+
     
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;
