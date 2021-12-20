@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
     String b0 = "2.0";
     String b1= "2.1";
+    
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;
 
@@ -54,8 +55,6 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
-    //https://github.com/abiezerq-sp/Git-Practice.git
-    //Test 2
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
