@@ -20,6 +20,8 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 
+
+    int a = 1;
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;
 
@@ -51,6 +53,9 @@ public class MainActivity extends AppCompatActivity {
         getMenuInflater().inflate(R.menu.menu_main, menu);
         return true;
     }
+
+    //https://github.com/abiezerq-sp/Git-Practice.git
+    //Test 2
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
