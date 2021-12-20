@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     String c1 = "3333";
+    String c2 = "3232";
 
 
     private AppBarConfiguration appBarConfiguration;
