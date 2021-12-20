@@ -20,7 +20,10 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 
-    
+
+    String c1 = "3";
+
+
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;
 
