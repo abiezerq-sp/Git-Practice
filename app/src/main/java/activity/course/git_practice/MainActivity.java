@@ -19,6 +19,9 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
+  
+    String b0 = "2.0";
+    String b1= "2.1";
 
     
     private AppBarConfiguration appBarConfiguration;
@@ -53,8 +56,6 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
-    //https://github.com/abiezerq-sp/Git-Practice.git
-    //Test 2
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
